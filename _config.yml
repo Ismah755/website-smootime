@@ -1,0 +1,85 @@
+
+> Pastikan nama folder dan file gambar sesuai agar tampilannya tidak rusak.
+
+---
+
+## ⚙️ Cara Menjalankan
+
+1. Pastikan semua file sudah tersusun seperti struktur di atas.  
+2. Klik dua kali `index.html` untuk membuka website di browser (Google Chrome atau Edge).  
+3. Tidak perlu instalasi tambahan — semua berjalan **offline**.  
+4. Jika ingin menampilkan online, upload semua file ke GitHub Pages atau Netlify.
+
+---
+
+## 🎨 Tampilan & Fitur Utama
+
+- 🌈 **Desain Responsif & Cerah**  
+  Menggunakan kombinasi warna oranye, krem, dan putih agar tampak segar serta mudah dibaca di berbagai ukuran layar.
+
+- 🥭 **Menu Smoothies Populer**  
+  Terdiri dari beberapa varian rasa seperti mangga, stroberi, dan alpukat lengkap dengan deskripsi dan tombol pemesanan cepat.
+
+- 🎁 **Promo Menarik**  
+  Bagian promo menampilkan tulisan kecil di tengah halaman tanpa gambar, agar fokus pada teks dan penawaran.
+
+- 📸 **Tentang Kami**  
+  Berisi deskripsi singkat brand dengan gambar logo berukuran proporsional (tidak memenuhi layar).
+
+- 💬 **Pesan Sekarang**  
+  Fitur formulir sederhana agar pengunjung dapat langsung menghubungi lewat WhatsApp atau GrabFood.  
+  Bagian ini sudah disusun ulang agar tidak terlalu mepet dan terlihat rapi di semua perangkat.
+
+- 📱 **Navigasi Sederhana**  
+  Terdapat tombol **“Lihat Menu”** di bagian atas halaman untuk langsung menuju daftar produk.
+
+---
+
+## 🔗 Link Kontak Resmi
+
+- **WhatsApp:** [Hubungi Kami](https://wa.me/6288102596225)  
+- **GrabFood:** [Pesan via GrabFood](https://www.grab.com/id/food/)  
+- **Instagram:** [@smoothies_time_](https://www.instagram.com/smoothies_time_/)
+
+---
+
+## 🧑‍💻 Teknologi yang Digunakan
+
+| Komponen | Deskripsi |
+|-----------|------------|
+| **HTML5** | Struktur halaman utama dan konten. |
+| **CSS3** | Desain tampilan, layout, dan warna. |
+| **Flexbox & Grid** | Mengatur posisi elemen agar responsif di berbagai layar. |
+| **Media Queries** | Membuat tampilan tetap rapi di HP dan laptop. |
+
+---
+
+## 🖼️ Preview Tampilan
+
+> **Beranda (Home)**
+>
+> ![Tampilan Beranda](assets/images/landscape.jpg)
+>
+> **Menu Smoothies**
+>
+> ![Menu Smoothies](assets/images/mangga.jpg)
+
+---
+
+## 👩‍💻 Pembuat Proyek
+
+**Nama:** Putri Ismah Ashilah  
+**Tahun:** 2025  
+**Versi:** 1.0  
+**Tujuan:** Proyek website promosi brand *Smoothies Time* 🍓  
+
+---
+
+## 📜 Lisensi
+
+Proyek ini dibuat untuk **tujuan edukasi dan promosi produk minuman sehat.**  
+Semua gambar bersifat ilustratif dan dapat diganti sesuai kebutuhan brand.
+
+---
+
+> © 2025 Smoothies Time — Dibuat dengan cinta 💛 oleh Putri Ismah Ashilah.
